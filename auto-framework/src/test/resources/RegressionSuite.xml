@@ -1,0 +1,8 @@
+<suite name="RegressionSuite">
+	<test name="RegressionSuiteTest">
+		<classes>
+			<class name="auto.tests.WebDriver1Test" />
+			<class name="auto.tests.WebDriver2Test" />
+		</classes>
+	</test>
+</suite>
